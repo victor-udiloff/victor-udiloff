@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Victor Udiloff
+I current work as a Fullstack developer, this github profile is mostly about personal projects that I built because I find them interesting, my ohter interests are Machine Learning, Graphics, Data Science and Signal Processing, and I usually make projects about those topics
 
-<!--
-**victor-udiloff/victor-udiloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Tools
+✔ Languages: Python, C++, Assembly, JavaScript
+✔ Web: React, HTML, CSS, FastAPI
+✔ Data: NumPy, Pandas, Matplotlib, Selenium, PyTorch, OpenCV
+✔ Other: SQL, AWS, Azure DevOps, Git, Linux, SDL, OpenGL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 💬 Connect on [LinkedIn](www.linkedin.com/in/victor-udiloff)
+- 📧 Email: victor.udiloff@gmail.com
