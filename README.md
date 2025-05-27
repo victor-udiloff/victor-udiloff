@@ -3,9 +3,9 @@ I current work as a Fullstack developer, this github profile is mostly about per
 
 ## 🛠️ Skills & Tools
 ✔ Languages: Python, C++, Assembly, JavaScript
-✔ Web: React, HTML, CSS, FastAPI
+✔ Web: React, HTML, CSS, FastAPI, Node
 ✔ Data: NumPy, Pandas, Matplotlib, Selenium, PyTorch, OpenCV
-✔ Other: SQL, AWS, Azure DevOps, Git, Linux, SDL, OpenGL
+✔ Other: SQL, AWS, Git, Linux
 
 ## 📫 Contact Me
 - 💬 Connect on [LinkedIn](www.linkedin.com/in/victor-udiloff)
