@@ -1,5 +1,5 @@
 # Hi, I'm Victor Udiloff
-I current work as a Fullstack developer, this github profile is mostly about personal projects that I built because I find them interesting, my ohter interests are Machine Learning, Graphics, Data Science and Signal Processing, and I usually make projects about those topics
+I current work as a Fullstack developer, this github profile is mostly about personal projects that I built because I find them interesting, my interests are Electronics, Machine Learning, Graphics, Data Science and Signal Processing, and I usually make projects about those topics
 
 ## 🛠️ Skills & Tools
 ✔ Languages: Python, C++, Assembly, JavaScript
